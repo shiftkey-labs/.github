@@ -1,6 +1,6 @@
-# Welcome to ShiftKey Labs on GitHub! 
-
 ![ShiftKey Labs Logo](https://shiftkeylabs.ca/wp-content/uploads/2019/09/Shiftkey-Labs-Logo-01-e1487284025704-1200x515.png)  
+
+# Welcome to ShiftKey Labs on GitHub! 
 
 ShiftKey Labs Open Source is an initiative driven with passion to bridge the gap between classroom lessons and real-world tech industry experiences. Situated at the heart of Nova Scotia, our primary goal is to provide students with tangible experiences, ensuring they are well-prepared to take on the challenges of the modern tech world.
 
