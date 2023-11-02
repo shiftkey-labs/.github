@@ -26,7 +26,7 @@ Are you a student in Nova Scotia with a passion for technology? Or perhaps an in
 
 2. **Mentors and Industry Professionals**: Reach out to us directly at [CONTACT_EMAIL] for collaboration opportunities.
 
-## Current Projects
+## Current Project
 
 - [Shiftkey Events](#)
 
