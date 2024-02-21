@@ -1,4 +1,4 @@
-![ShiftKey Labs Logo](https://shiftkeylabs.ca/wp-content/uploads/2019/09/Shiftkey-Labs-Logo-01-e1487284025704-1200x515.png)  
+![ShiftKey Labs Logo](https://shiftkeylabs.ca/wp-content/uploads/2022/12/shiftkey-logo-white-4.png)  
 
 # Welcome to ShiftKey Labs on GitHub! 
 
